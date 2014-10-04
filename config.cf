@@ -1,0 +1,17 @@
+[DataBase]
+User = UPDATER
+Password = fbe7t45fg93w
+DBName = PST
+
+[Connection]
+IP = 127.0.0.1
+Port = 8001
+ID = 13
+
+[Timeouts]
+Error = 3
+SendOrders = 10
+GetMask = 15
+
+[RunMode]
+Debug = 1
